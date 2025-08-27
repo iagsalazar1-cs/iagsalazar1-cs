@@ -26,7 +26,7 @@ A results-oriented professional with a proven background in high-stakes customer
 ### Project Repositories
 This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus.
 
-[**Cybersecurity Incident Response**](https://github.com/your-username/cybersecurity-incident-response) 
+[**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response) 
 
 A dedicated repository for threat analysis and security monitoring. This includes documentation of my IR Certification Executive Summaries and hands-on projects using Splunk for dashboard creation, Wazuh for deployment and log management, and Wireshark for network attack investigation. (In progress...)
 
