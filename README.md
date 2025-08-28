@@ -28,7 +28,7 @@ This section provides a categorized overview of my hands-on projects and labs. E
 
 [**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response) 
 
-A dedicated repository for threat analysis and security monitoring. This includes documentation of my IR Certification Executive Summaries and hands-on projects using Splunk for dashboard creation, Wazuh for deployment and log management, and Wireshark for network attack investigation. (In progress...)
+A dedicated repository for threat analysis and security monitoring. This includes documentation of my IR Certification Executive Summaries and hands-on projects using Splunk for dashboard creation, Wazuh for deployment and log management, and Wireshark for network attack investigation. 
 
 **IR Certification Case Studies (CTF Challenges)**
 
@@ -40,7 +40,7 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 - **Mail n' Trail:** I analyzed Splunk logs to investigate suspicious honeypot activity and uncover the source of malicious downloads.
 
-**Hands-On Labs**
+**Hands-On Labs** (In progress...)
 
 - Splunk Dashboard and Alert Creation
 
