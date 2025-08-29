@@ -1,8 +1,8 @@
-# Hello, my name is Ivan Salazar.
+# Hello, my name is Ivan Salazar
 
 <a href="https://linkedin.com/in/ivan-a-salazar1"><img src="https://img.shields.io/badge/-LinkedIn_Profile-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A results-oriented professional with a proven background in high-stakes customer service, now leveraging a new foundation in IT and cybersecurity. Skilled in network security, systems troubleshooting, and security protocols, with hands-on experience using Wireshark, Splunk, Windows Server, and Active Directory. I'm actively seeking an entry-level position in IT Help Desk, Network Administration, or Cybersecurity Analysis.
+A results-oriented professional with a proven background in high-stakes customer service, now leveraging a new foundation in IT and cybersecurity. Skilled in network security, systems troubleshooting, and security protocols, with hands-on experience using **Wireshark, Splunk, Windows Server, and Active Directory.** I'm actively seeking an entry-level position in **IT Help Desk, Network Administration, or Cybersecurity Analysis.**
 
 ---
 
@@ -26,9 +26,9 @@ A results-oriented professional with a proven background in high-stakes customer
 ### Project Repositories
 This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus.
 
-[**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response) 
+[**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response)
 
-A dedicated repository for threat analysis and security monitoring. This includes documentation of my IR Certification Executive Summaries and hands-on projects using Splunk for dashboard creation, Wazuh for deployment and log management, and Wireshark for network attack investigation. 
+A dedicated repository for threat analysis and security monitoring. This includes documentation of my IR Certification Executive Summaries and hands-on projects using Splunk for dashboard creation, Wazuh for deployment and log management, and Wireshark for network attack investigation.
 
 **IR Certification Case Studies (CTF Challenges)**
 
@@ -40,20 +40,20 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 - **Mail n' Trail:** I analyzed Splunk logs to investigate suspicious honeypot activity and uncover the source of malicious downloads.
 
-**Hands-On Labs** 
+**Hands-On Labs**
 
 - **Splunk Dashboard and Alert Creation:** This project involved customizing Splunk dashboards for HTTP 404 error visualization and configuring real-time alerts.
 
 - **Wazuh Deployment in VirtualBox - FIM, Custom Rules, and Active Response:** This project set up a Wazuh SIEM in VirtualBox, covering FIM, custom threat detection, and automated active response.
 
-- **Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management:**
+- **Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management:** This project set up a Wazuh agent on a Windows 10 VM, covering FIM, custom rules, and active responses, along with log retention policies.
 
 - **Network Attack Investigation in Wireshark:**
 
 
 [**Network Administration & Labs**](https://github.com/your-username/Network-Administration-&-Labs) **(In progress...)**
 
-This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata. 
+This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata.
 
 - Essential Switch Configuration
 
@@ -75,7 +75,7 @@ This repository showcases my hands-on experience in Cisco switch and router conf
 
 [**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(In progress...)**
 
-This repository highlights my skills in managing and securing server environments, featuring hands-on labs with Windows Server, Group Policy Objects (GPO), and DNS/DHCP configuration as well as Wazuh deployment. 
+This repository highlights my skills in managing and securing server environments, featuring hands-on labs with Windows Server, Group Policy Objects (GPO), and DNS/DHCP configuration as well as Wazuh deployment.
 
 - Windows Server Configuration
 
@@ -85,7 +85,7 @@ This repository highlights my skills in managing and securing server environment
 
 [**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(In progress...)**
 
-A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments. 
+A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments.
 
 - EC2 Windows Server Instance Creation
 
@@ -107,4 +107,3 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 <a href="https://credsverse.com/credentials/1e6d335d-f012-450a-9b86-d58834b02a02">
 <img src="https://img.shields.io/badge/-CSULB_Cybersecurity-003366?&style=for-the-badge&logoColor=white" />
 </a>
-
