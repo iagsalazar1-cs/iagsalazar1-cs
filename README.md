@@ -53,25 +53,25 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(In progress...)**
 
-This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata.
+This repository details my hands-on expertise in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity.
 
-- **Essential Switch Configuration:** 
+- **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer.
 
-- **Switch Port Security Configuration:**
+- **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access.
 
-- **Initial Router Configuration:**
+- **Initial Router Configuration:** Performed fundamental setup and IP addressing for a Cisco router in a small Packet Tracer network.
 
-- **Configuring Static Routes:**
+- **Configuring Static Routes:** Manually configured IPv4 static routes on Cisco routers to establish inter-LAN and external network connectivity.
 
-- **Configuring VLANs and Trunks:**
+- **Configuring VLANs and Trunks:** Segmented networks using VLANs and trunking on Cisco switches for enhanced performance and security.
 
-- **Implementing Access Control Lists:**
+- **Implementing Access Control Lists:** Applied standard and extended ACLs on Cisco routers to filter network traffic and control access.
 
-- **Configuring Static, Dynamic, and Overload NAT:**
+- **Configuring Static, Dynamic, and Overload NAT:** Configured various NAT types on Cisco routers for IP address management and external communication.
 
-- **PFSense Firewall Rule Configuration:**
+- **PFSense Firewall Rule Configuration:** Managed firewall rules in pfSense to control network traffic, specifically ICMP, in a simulated environment.
 
-- **Suricata Installation and Rule Configuration on PFSense:**
+- **Suricata Installation and Rule Configuration on PFSense:** Integrated and configured Suricata IDS/IPS on pfSense for advanced network threat monitoring and protection.
 
 [**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(In progress...)**
 
