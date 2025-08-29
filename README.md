@@ -40,7 +40,7 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 - **Mail n' Trail:** I analyzed Splunk logs to investigate suspicious honeypot activity and uncover the source of malicious downloads.
 
-**Hands-On Labs** (In progress...)
+**Hands-On Labs** 
 
 - Splunk Dashboard and Alert Creation
 
@@ -51,9 +51,9 @@ A dedicated repository for threat analysis and security monitoring. This include
 - Network Attack Investigation in Wireshark
 
 
-[**Network Administration & Labs**](https://github.com/your-username/Network-Administration-&-Labs) 
+[**Network Administration & Labs**](https://github.com/your-username/Network-Administration-&-Labs) **(In progress...)**
 
-This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata. (In progress...)
+This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata. 
 
 - Essential Switch Configuration
 
@@ -73,9 +73,9 @@ This repository showcases my hands-on experience in Cisco switch and router conf
 
 - Suricata Installation and Rule Configuration on PFSense
 
-[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects)
+[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(In progress...)**
 
-This repository highlights my skills in managing and securing server environments, featuring hands-on labs with Windows Server, Group Policy Objects (GPO), and DNS/DHCP configuration as well as Wazuh deployment. (In progress...)
+This repository highlights my skills in managing and securing server environments, featuring hands-on labs with Windows Server, Group Policy Objects (GPO), and DNS/DHCP configuration as well as Wazuh deployment. 
 
 - Windows Server Configuration
 
@@ -83,9 +83,9 @@ This repository highlights my skills in managing and securing server environment
 
 - Configuring DNS and DHCP in Windows Server
 
-[**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions)
+[**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(In progress...)**
 
-A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments. (In progress...)
+A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments. 
 
 - EC2 Windows Server Instance Creation
 
