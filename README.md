@@ -42,13 +42,13 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 **Hands-On Labs** 
 
-- Splunk Dashboard and Alert Creation
+- **Splunk Dashboard and Alert Creation:** This project involved customizing Splunk dashboards for HTTP 404 error visualization and configuring real-time alerts.
 
-- Wazuh Deployment in VirtualBox
+- **Wazuh Deployment in VirtualBox - FIM, Custom Rules, and Active Response:** This project set up a Wazuh SIEM in VirtualBox, covering FIM, custom threat detection, and automated active response.
 
-- Wazuh Deployment in VirtualBox
+- **Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management:**
 
-- Network Attack Investigation in Wireshark
+- **Network Attack Investigation in Wireshark:**
 
 
 [**Network Administration & Labs**](https://github.com/your-username/Network-Administration-&-Labs) **(In progress...)**
