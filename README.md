@@ -51,27 +51,27 @@ A dedicated repository for threat analysis and security monitoring. This include
 - **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
 
 
-[**Network Administration & Labs**](https://github.com/your-username/Network-Administration-&-Labs) **(In progress...)**
+[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) 
 
 This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata.
 
-- Essential Switch Configuration
+- **Essential Switch Configuration:** **(In progress...)**
 
-- Switch Port Security Configuration
+- **Switch Port Security Configuration:**
 
-- Initial Router Configuration
+- **Initial Router Configuration:**
 
-- Configuring Static Routes
+- **Configuring Static Routes:**
 
-- Configuring VLANs and Trunks
+- **Configuring VLANs and Trunks:**
 
-- Implementing Access Control Lists
+- **Implementing Access Control Lists:**
 
-- Configuring Static, Dynamic, and Overload NAT
+- **Configuring Static, Dynamic, and Overload NAT:**
 
-- PFSense Firewall Rule Configuration
+- **PFSense Firewall Rule Configuration:**
 
-- Suricata Installation and Rule Configuration on PFSense
+- **Suricata Installation and Rule Configuration on PFSense:**
 
 [**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(In progress...)**
 
