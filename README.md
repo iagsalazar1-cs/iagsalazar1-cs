@@ -48,7 +48,7 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 - **Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management:** This project set up a Wazuh agent on a Windows 10 VM, covering FIM, custom rules, and active responses, along with log retention policies.
 
-- **Network Attack Investigation in Wireshark:** **(In progress...)**
+- **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
 
 
 [**Network Administration & Labs**](https://github.com/your-username/Network-Administration-&-Labs) **(In progress...)**
