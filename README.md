@@ -51,11 +51,11 @@ A dedicated repository for threat analysis and security monitoring. This include
 - **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
 
 
-[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) 
+[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(In progress...)**
 
 This repository showcases my hands-on experience in Cisco switch and router configuration, VLANs, and firewall rule management with pfSense and Suricata.
 
-- **Essential Switch Configuration:** **(In progress...)**
+- **Essential Switch Configuration:** 
 
 - **Switch Port Security Configuration:**
 
