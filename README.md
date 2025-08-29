@@ -24,7 +24,7 @@ A results-oriented professional with a proven background in high-stakes customer
 ---
 
 ### Project Repositories
-This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus.
+This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus. Each project includes documentation, currently being formalized into detailed markdown write-ups for easy access and review.
 
 [**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response)
 
@@ -51,11 +51,11 @@ A dedicated repository for threat analysis and security monitoring. This include
 - **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
 
 
-[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(In progress...)**
+[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(Projects Completed: Markdown Write-ups Coming Soon)**
 
-This repository details my hands-on expertise in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity.
+This repository details my hands-on expertise in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity. 
 
-- **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer.
+- **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. **(In Progress - Aug. 25th, 2025)**
 
 - **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access.
 
@@ -73,7 +73,7 @@ This repository details my hands-on expertise in network administration, includi
 
 - **Suricata Installation and Rule Configuration on PFSense:** Integrated and configured Suricata IDS/IPS on pfSense for advanced network threat monitoring and protection.
 
-[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(In progress...)**
+[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(Projects Completed: Markdown Write-ups Coming Soon)**
 
 This repository highlights my skills in managing and securing server environments, featuring hands-on labs with Windows Server, Group Policy Objects (GPO), and DNS/DHCP configuration as well as Wazuh deployment.
 
@@ -83,7 +83,7 @@ This repository highlights my skills in managing and securing server environment
 
 - Configuring DNS and DHCP in Windows Server
 
-[**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(In progress...)**
+[**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(Projects Completed: Markdown Write-ups Coming Soon)**
 
 A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments.
 
