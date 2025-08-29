@@ -51,11 +51,11 @@ A dedicated repository for threat analysis and security monitoring. This include
 - **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
 
 
-[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(Projects Completed: Markdown Write-ups Coming Soon)**
+[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(Projects Completed: Markdown Write-ups Coming Soon as of Aug. 25th, 2025)**
 
 This repository details my hands-on expertise in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity. 
 
-- **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. **(In Progress - Aug. 25th, 2025)**
+- **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. **(In Progress...)**
 
 - **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access.
 
