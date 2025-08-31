@@ -57,13 +57,13 @@ This repository details my hands-on expertise in network administration, includi
 
 - **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. 
 
-- **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access. **(In Progress...)**
-
+- **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access.
+- 
 - **Initial Router Configuration:** Performed fundamental setup and IP addressing for a Cisco router in a small Packet Tracer network.
 
 - **Configuring Static Routes:** Manually configured IPv4 static routes on Cisco routers to establish inter-LAN and external network connectivity.
 
-- **Configuring VLANs and Trunks:** Segmented networks using VLANs and trunking on Cisco switches for enhanced performance and security.
+- **Configuring VLANs and Trunks:** Segmented networks using VLANs and trunking on Cisco switches for enhanced performance and security. **(In Progress...)**
 
 - **Implementing Access Control Lists:** Applied standard and extended ACLs on Cisco routers to filter network traffic and control access.
 
