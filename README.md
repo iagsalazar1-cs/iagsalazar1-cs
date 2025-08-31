@@ -51,7 +51,7 @@ A dedicated repository for threat analysis and security monitoring. This include
 - **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
 
 
-[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(Projects Completed: Markdown Write-ups Coming Soon as of Aug. 30th, 2025)**
+[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs) **(Projects Completed: Markdown Write-ups Coming Soon)**
 
 This repository details my hands-on expertise in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity. 
 
@@ -63,7 +63,7 @@ This repository details my hands-on expertise in network administration, includi
 
 - **Configuring Static Routes:** Manually configured IPv4 static routes on Cisco routers to establish inter-LAN and external network connectivity.
 
-- **Configuring VLANs and Trunks:** Segmented networks using VLANs and trunking on Cisco switches for enhanced performance and security. **(In Progress...)**
+- **Configuring VLANs and Trunks:** Segmented networks using VLANs and trunking on Cisco switches for enhanced performance and security. **(In Progress - Aug. 30th, 2025)**
 
 - **Implementing Access Control Lists:** Applied standard and extended ACLs on Cisco routers to filter network traffic and control access.
 
