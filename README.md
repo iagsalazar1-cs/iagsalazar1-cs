@@ -87,7 +87,7 @@ This repository showcases my hands-on skills in managing and securing server env
 
 A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments.
 
-- **EC2 Windows Server Instance Creation:** 
+- **EC2 Windows Server Instance Creation:** This project outlines the creation and management of a Windows Server 2016 Amazon EC2 instance on AWS, focusing on secure access with a key pair and preparing for remote management via RDP.
 
 ---
 
