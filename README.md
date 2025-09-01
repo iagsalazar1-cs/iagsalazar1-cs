@@ -83,11 +83,11 @@ This repository showcases my hands-on skills in managing and securing server env
 
 - **Configuring DNS and DHCP in Windows Server:** This project demonstrates the configuration of critical network services, including creating DNS records and setting up a DHCP server with a new IPv4 scope.
 
-[**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) **(Markdown Write-ups Coming Soon - Aug. 31th, 2025)**
+[**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) 
 
 A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments.
 
-- **EC2 Windows Server Instance Creation:** **(In Progress...)**
+- **EC2 Windows Server Instance Creation:** 
 
 ---
 
