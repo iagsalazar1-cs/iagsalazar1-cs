@@ -24,7 +24,7 @@ A results-oriented professional with a proven background in high-stakes customer
 ---
 
 ### Project Repositories
-This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus. Each project includes documentation, currently being formalized into detailed markdown write-ups for easy access and review.
+This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus. Each project includes documentation formalized into detailed markdown write-ups for easy access and review. This is a living document and will be updated as more projects are completed.
 
 [**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response)
 
