@@ -53,12 +53,12 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
 
-This repository details my hands-on expertise in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity. 
+This repository details my hands-on experience in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity. 
 
 - **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. 
 
 - **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access.
-- 
+ 
 - **Initial Router Configuration:** Performed fundamental setup and IP addressing for a Cisco router in a small Packet Tracer network.
 
 - **Configuring Static Routes:** Manually configured IPv4 static routes on Cisco routers to establish inter-LAN and external network connectivity.
@@ -73,15 +73,15 @@ This repository details my hands-on expertise in network administration, includi
 
 - **Suricata Installation and Rule Configuration on PFSense:** Integrated and configured Suricata IDS/IPS on pfSense for advanced network threat monitoring and protection.
 
-[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(Projects Completed: Markdown Write-ups Coming Soon)**
+[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(Markdown Write-ups Coming Soon - Aug. 31th, 2025)**
 
-This repository highlights my skills in managing and securing server environments, featuring hands-on labs with Windows Server, Group Policy Objects (GPO), and DNS/DHCP configuration as well as Wazuh deployment.
+This repository showcases my hands-on skills in managing and securing server environments. It features practical labs demonstrating my proficiency with Windows Server, Group Policy Objects (GPO), DNS/DHCP configuration. 
 
-- Windows Server Configuration **(In Progress - Aug. 31th, 2025)**
+- **Windows Server Configuration:** This project focuses on the initial setup of a Windows Server domain and integrating a Windows client into it. **(In Progress...)**
 
-- Server Manager Group Policy Object Configuration
+- **Server Manager Group Policy Object Configuration:** This project highlights the essential use of Group Policy Objects (GPOs) to manage and secure a Windows environment by disabling key features and customizing the desktop.
 
-- Configuring DNS and DHCP in Windows Server
+- **Configuring DNS and DHCP in Windows Server:** This project demonstrates the configuration of critical network services, including creating DNS records and setting up a DHCP server with a new IPv4 scope.
 
 [**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(Projects Completed: Markdown Write-ups Coming Soon)**
 
