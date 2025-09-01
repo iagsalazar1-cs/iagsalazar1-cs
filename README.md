@@ -73,21 +73,21 @@ This repository details my hands-on experience in network administration, includ
 
 - **Suricata Installation and Rule Configuration on PFSense:** Integrated and configured Suricata IDS/IPS on pfSense for advanced network threat monitoring and protection.
 
-[**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) **(Markdown Write-ups Coming Soon - Aug. 31th, 2025)**
+[**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) 
 
 This repository showcases my hands-on skills in managing and securing server environments. It features practical labs demonstrating my proficiency with Windows Server, Group Policy Objects (GPO), DNS/DHCP configuration. 
 
-- **Windows Server Configuration:** This project focuses on the initial setup of a Windows Server domain and integrating a Windows client into it. **(In Progress...)**
+- **Windows Server Configuration:** This project focuses on the initial setup of a Windows Server domain and integrating a Windows client into it. 
 
 - **Server Manager Group Policy Object Configuration:** This project highlights the essential use of Group Policy Objects (GPOs) to manage and secure a Windows environment by disabling key features and customizing the desktop.
 
 - **Configuring DNS and DHCP in Windows Server:** This project demonstrates the configuration of critical network services, including creating DNS records and setting up a DHCP server with a new IPv4 scope.
 
-[**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(Projects Completed: Markdown Write-ups Coming Soon)**
+[**Cloud Solutions**](https://github.com/your-username/Cloud-Solutions) **(Markdown Write-ups Coming Soon - Aug. 31th, 2025)**
 
 A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments.
 
-- EC2 Windows Server Instance Creation
+- **EC2 Windows Server Instance Creation:** **(In Progress...)**
 
 ---
 
