@@ -73,7 +73,7 @@ This repository details my hands-on experience in network administration, includ
 
 - **Suricata Installation and Rule Configuration on PFSense:** Integrated and configured Suricata IDS/IPS on pfSense for advanced network threat monitoring and protection.
 
-[**System Administration Projects**](https://github.com/your-username/System-Administration-Projects) **(Markdown Write-ups Coming Soon - Aug. 31th, 2025)**
+[**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) **(Markdown Write-ups Coming Soon - Aug. 31th, 2025)**
 
 This repository showcases my hands-on skills in managing and securing server environments. It features practical labs demonstrating my proficiency with Windows Server, Group Policy Objects (GPO), DNS/DHCP configuration. 
 
