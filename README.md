@@ -93,7 +93,11 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 
 ### Certifications
 <a href="https://www.credly.com/badges/30ddd4b5-8edf-4239-86be-9a9715853eb2/public_url">
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-CC0000?&style=for-the-badge&logo=white" />
+</a>
+
+<a href="https://www.credly.com/badges/81ee6594-d93d-4fc3-99ee-44d3f7103033/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-EE0000?&style=for-the-badge&logo=white" />
 </a>
 
 <a href="https://platform.ironcircle.com/certifications/cyber-advantage/gmhy2bf2n8ynqjsfsk0ka9gf">
@@ -107,3 +111,4 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 <a href="https://credsverse.com/credentials/1e6d335d-f012-450a-9b86-d58834b02a02">
 <img src="https://img.shields.io/badge/-CSULB_Cybersecurity-003366?&style=for-the-badge&logoColor=white" />
 </a>
+
