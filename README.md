@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/ivan-a-salazar1"><img src="https://img.shields.io/badge/-LinkedIn_Profile-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A results-oriented professional with a proven background in high-stakes customer service, now leveraging a new foundation in IT and cybersecurity. Skilled in network security, systems troubleshooting, and security protocols, with hands-on experience using **Wireshark, Splunk, Windows Server, and Active Directory.** I'm actively seeking an entry-level position in **IT Help Desk, Network Administration, or Cybersecurity Analysis.**
+A results-oriented professional with a proven background in high-stakes customer service, now leveraging a new foundation in IT and cybersecurity. Skilled in network security, systems troubleshooting, and security protocols, with hands-on experience using **Wireshark, Splunk, Windows Server, and Active Directory.** I'm actively seeking an entry-level position in **IT Help Desk or Cybersecurity.**
 
 ---
 
