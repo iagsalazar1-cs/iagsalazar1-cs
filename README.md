@@ -93,22 +93,25 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 
 ### Certifications
 <a href="https://www.credly.com/badges/30ddd4b5-8edf-4239-86be-9a9715853eb2/public_url">
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-CC0000?&style=for-the-badge&logo=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-D91E1E?&style=for-the-badge&logo=white" />
 </a>
 
 <a href="https://www.credly.com/badges/81ee6594-d93d-4fc3-99ee-44d3f7103033/public_url">
-  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-EE0000?&style=for-the-badge&logo=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-1D4ED8?&style=for-the-badge&logo=white" />
 </a>
 
-<a href="https://platform.ironcircle.com/certifications/cyber-advantage/gmhy2bf2n8ynqjsfsk0ka9gf">
-  <img src="https://img.shields.io/badge/-IronCircle_CyberAdvantage-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/7f00b4f8-951a-4843-b31d-ee29bd2d3d8d/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_A%2B-475569?&style=for-the-badge&logo=white" />
 </a>
 
-<a href="https://platform.ironcircle.com/certifications/tdx-arena-ir-expert/bv3jg1t53aaqziafnqkzlfab">
-  <img src="https://img.shields.io/badge/-IronCircle_TDX_Arena-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/995b048f-6b79-454d-9f87-347db3212b5f/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_CSIS-991B1B?&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/badges/39efafd7-9918-443f-b572-c11071dee793/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_CIOS-2A9D8F?&style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://credsverse.com/credentials/1e6d335d-f012-450a-9b86-d58834b02a02">
-<img src="https://img.shields.io/badge/-CSULB_Cybersecurity-003366?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSULB_Cybersecurity-000000?&style=for-the-badge&logoColor=white" />
 </a>
-
