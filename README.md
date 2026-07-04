@@ -101,7 +101,7 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 </a>
 
 <a href="https://www.credly.com/badges/7f00b4f8-951a-4843-b31d-ee29bd2d3d8d/public_url">
-  <img src="https://img.shields.io/badge/-CompTIA_A%2B-475569?&style=for-the-badge&logo=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_A%2B-708090?&style=for-the-badge&logo=white" />
 </a>
 
 <a href="https://www.credly.com/badges/995b048f-6b79-454d-9f87-347db3212b5f/public_url">
@@ -110,6 +110,10 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 
 <a href="https://www.credly.com/badges/39efafd7-9918-443f-b572-c11071dee793/public_url">
   <img src="https://img.shields.io/badge/-CompTIA_CIOS-2A9D8F?&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/badges/38180a12-c67c-4c77-b5ed-e70c3b6f24cc/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_Project%2B-708090?&style=for-the-badge&logo=white" />
 </a>
 
 <a href="https://credsverse.com/credentials/1e6d335d-f012-450a-9b86-d58834b02a02">
