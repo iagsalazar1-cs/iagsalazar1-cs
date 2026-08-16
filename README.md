@@ -53,7 +53,7 @@ A dedicated repository for threat analysis and security monitoring. This include
 
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
 
-This repository details my hands-on experience in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructures for robust connectivity. 
+This repository details my hands-on experience in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructure to ensure robust connectivity. 
 
 - **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. 
 
@@ -104,6 +104,14 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
   <img src="https://img.shields.io/badge/-CompTIA_A%2B-708090?&style=for-the-badge&logo=white" />
 </a>
 
+<a href="https://badges.peoplecert.org/Badge/en/2/3D9ED0D6-7D5F-4DC7-92CE-FE1E1BB33AC8?1103">
+  <img src="https://img.shields.io/badge/-AXELOS_ITIL4 Foundation-DB0080?&style=for-the-badge&logo=white" />
+</a>
+
+<a href="https://www.credly.com/badges/38180a12-c67c-4c77-b5ed-e70c3b6f24cc/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_Project%2B-475569?&style=for-the-badge&logo=white" />
+</a>
+
 <a href="https://www.credly.com/badges/995b048f-6b79-454d-9f87-347db3212b5f/public_url">
   <img src="https://img.shields.io/badge/-CompTIA_CSIS-991B1B?&style=for-the-badge&logoColor=white" />
 </a>
@@ -112,10 +120,6 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
   <img src="https://img.shields.io/badge/-CompTIA_CIOS-2A9D8F?&style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="https://www.credly.com/badges/38180a12-c67c-4c77-b5ed-e70c3b6f24cc/public_url">
-  <img src="https://img.shields.io/badge/-CompTIA_Project%2B-708090?&style=for-the-badge&logo=white" />
-</a>
-
 <a href="https://credsverse.com/credentials/1e6d335d-f012-450a-9b86-d58834b02a02">
-<img src="https://img.shields.io/badge/-CSULB_Cybersecurity-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSULB_Cybersecurity-EAAA00?&style=for-the-badge&logoColor=white" />
 </a>
