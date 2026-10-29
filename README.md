@@ -92,6 +92,10 @@ A separate repository demonstrating my proficiency with modern cloud infrastruct
 ---
 
 ### Certifications
+<a href="https://www.credly.com/badges/c1a39c36-7b3a-49bf-99fd-e31e1c1b42e9/public_url">
+  <img src="https://img.shields.io/badge/-Associate_of_ISC2_(SSCP)-0F766E?&style=for-the-badge&logo=white" />
+</a>
+
 <a href="https://www.credly.com/badges/30ddd4b5-8edf-4239-86be-9a9715853eb2/public_url">
   <img src="https://img.shields.io/badge/-CompTIA_Security%2B-D91E1E?&style=for-the-badge&logo=white" />
 </a>
