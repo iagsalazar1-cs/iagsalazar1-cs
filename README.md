@@ -37,51 +37,51 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 **Hands-On Technical Labs**
 
-- [**Splunk Dashboard and Alert Creation (Telemetry Alerts):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/05-Splunk-Dashboard-Alert-Creation) Built custom Splunk dashboards to monitor web server telemetry, configuring real-time alerts for HTTP 404 error spikes and anomalous traffic patterns.
+- [**Splunk Dashboard and Alert Creation:**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/05-Splunk-Dashboard-Alert-Creation) Built custom Splunk dashboards to monitor web server telemetry, configuring real-time alerts for HTTP 404 error spikes and anomalous traffic patterns.
 
-- [**Wazuh Deployment in VirtualBox - FIM, Custom Rules, and Active Response (SIEM Laboratory):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/06-Wazuh-Deployment-FIM-Custom-Rules-Active-Response) Implemented a centralized Wazuh lab environment in VirtualBox, configuring File Integrity Monitoring (FIM) and Active Response rules for automated threat mitigation.
+- [**Wazuh Deployment in VirtualBox - FIM, Custom Rules, and Active Response:**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/06-Wazuh-Deployment-FIM-Custom-Rules-Active-Response) Implemented a centralized Wazuh lab environment in VirtualBox, configuring File Integrity Monitoring (FIM) and Active Response rules for automated threat mitigation.
 
-- [**Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management (Agent Deployment):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/07-Wazuh-Deployment-Windows-Agent-Log-Management) Configured a Wazuh monitoring agent on a Windows 10 virtual machine, establishing custom log parsing rules and local retention policies.
+- [**Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management:**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/07-Wazuh-Deployment-Windows-Agent-Log-Management) Configured a Wazuh monitoring agent on a Windows 10 virtual machine, establishing custom log parsing rules and local retention policies.
 
-- [**Network Attack Investigation in Wireshark (Packet Inspection):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/08-Network-Attack-Investigation-in-Wireshark) Filtered packet captures in Wireshark to investigate TCP three-way handshakes and isolate unauthorized scan attempts targeting SMB (port 445) and DNS (port 53).
+- [**Network Attack Investigation in Wireshark:**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/08-Network-Attack-Investigation-in-Wireshark) Filtered packet captures in Wireshark to investigate TCP three-way handshakes and isolate unauthorized scan attempts targeting SMB (port 445) and DNS (port 53).
 
 ---
 
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
 
-- [**Essential Switch Configuration (Switch Provisioning):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/01-Essential-Switch-Configuration) Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
+- [**Essential Switch Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/01-Essential-Switch-Configuration) Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
 
-- [**Switch Port Security Configuration (Port Security):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/02-Switch-Port-Security-Configuration) Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
+- [**Switch Port Security Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/02-Switch-Port-Security-Configuration) Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
 
-- [**Initial Router Configuration (Router Configuration):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/03-Initial-Router-Configuration) Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
+- [**Initial Router Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/03-Initial-Router-Configuration) Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
 
-- [**Configuring Static Routes (Routing Protocols):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/04-Configuring-Static-Routes) Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
+- [**Configuring Static Routes:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/04-Configuring-Static-Routes) Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
 
-- [**Configuring VLANs and Trunks (VLAN Segmentation):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/05-Configuring-VLANs-and-Trunks) Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
+- [**Configuring VLANs and Trunks:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/05-Configuring-VLANs-and-Trunks) Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
 
-- [**Implementing Access Control Lists (Access Control Lists):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/06-Implementing-Access-Control-Lists) Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
+- [**Implementing Access Control Lists:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/06-Implementing-Access-Control-Lists) Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
 
-- [**Configuring Static, Dynamic, and Overload NAT (NAT Implementation):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/07-Configuring-Static-Dynamic-Overload-NAT) Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
+- [**Configuring Static, Dynamic, and Overload NAT:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/07-Configuring-Static-Dynamic-Overload-NAT) Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
 
-- [**PFSense Firewall Rule Configuration (Firewall Policies):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/08-PFSense-Firewall-Rule-Configuration) Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
+- [**PFSense Firewall Rule Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/08-PFSense-Firewall-Rule-Configuration) Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
 
-- [**Suricata Installation and Rule Configuration on PFSense (Firewall Rulesets):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/09-Suricata-Installation-and-Rule-Configuration-on-PFSense) Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
+- [**Suricata Installation and Rule Configuration on PFSense:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/09-Suricata-Installation-and-Rule-Configuration-on-PFSense) Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
 
 ---
 
 [**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) 
 
-- [**Windows Server Configuration (Domain Controller Setup):**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/01-Windows-Server-Configuration) Configured a Windows Server Active Directory domain environment and joined Windows client workstations to the domain.
+- [**Windows Server Configuration:**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/01-Windows-Server-Configuration) Configured a Windows Server Active Directory domain environment and joined Windows client workstations to the domain.
 
-- [**Server Manager Group Policy Object Configuration (Group Policy Enforcement):**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/02-Server-Manager-Group-Policy-Object-Configuration) Configured Group Policy Objects (GPOs) to enforce security baselines, restrict administrative tools, and standardize user environment settings.
+- [**Server Manager Group Policy Object Configuration:**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/02-Server-Manager-Group-Policy-Object-Configuration) Configured Group Policy Objects (GPOs) to enforce security baselines, restrict administrative tools, and standardize user environment settings.
 
-- [**Configuring DNS and DHCP in Windows Server (DNS & DHCP Services):**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/03-Configuring-DNS-and-DHCP-in-Windows-Server) Deployed core infrastructure roles on Windows Server, creating static DNS resource records and configuring dynamic DHCP scope options.
+- [**Configuring DNS and DHCP in Windows Server:**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/03-Configuring-DNS-and-DHCP-in-Windows-Server) Deployed core infrastructure roles on Windows Server, creating static DNS resource records and configuring dynamic DHCP scope options.
 
 ---
 
 [**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) 
 
-- [**EC2 Windows Server Instance Creation (AWS Instance Deployment):**](https://github.com/iagsalazar1-cs/Cloud-Solutions/tree/main/01-EC2-Windows-Server-Instance-Creation) Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
+- [**EC2 Windows Server Instance Creation:**](https://github.com/iagsalazar1-cs/Cloud-Solutions/tree/main/01-EC2-Windows-Server-Instance-Creation) Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
 
 ---
 
