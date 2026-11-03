@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/ivan-a-salazar1"><img src="https://img.shields.io/badge/-LinkedIn_Profile-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A results-oriented professional with a proven background in high-stakes customer service, now leveraging a new foundation in IT and cybersecurity. Skilled in network security, systems troubleshooting, and security protocols, with hands-on experience using **Wireshark, Splunk, Windows Server, and Active Directory.** I'm actively seeking an entry-level position in **IT Help Desk or Cybersecurity.**
+Cybersecurity candidate and Bachelor of Science student at Western Governors University, holding the Associate of ISC2 (Passed SSCP Exam) designation alongside CompTIA Security+, Network+, A+, Project+, and ITIL 4 Foundation certifications. Combines over seven years of operational experience in continuous monitoring, incident logging, and emergency response across a major communications hub supporting 400+ bank facilities with hands-on laboratory experience in SIEM deployment, packet inspection, and threat analysis. A disciplined, bilingual professional (English/Spanish) seeking to leverage technical training and structured problem-solving in a cybersecurity analyst or IT support role.
 
 ---
 
@@ -24,71 +24,69 @@ A results-oriented professional with a proven background in high-stakes customer
 ---
 
 ### Project Repositories
-This section provides a categorized overview of my hands-on projects and labs. Each repository is a deep dive into a specific area of focus. Each project includes documentation formalized into detailed markdown write-ups for easy access and review. This is a living document and will be updated as more projects are completed.
+This portfolio documents hands-on laboratory exercises, system configurations, and network analysis simulations designed to build practical capabilities in IT support, system administration, and security operations. All projects are formalized into detailed Markdown write-ups with step-by-step documentation.
 
 [**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response)
 
-A dedicated repository for threat analysis and security monitoring. This includes documentation of my IR Certification Executive Summaries and hands-on projects using Splunk for dashboard creation, Wazuh for deployment and log management, and Wireshark for network attack investigation.
+Focuses on threat monitoring, telemetry analysis, and incident investigation using enterprise-grade security tools and capture-the-flag (CTF) scenarios.
 
-**IR Certification Case Studies (CTF Challenges)**
+**Case Studies & Threat Analysis**
 
-- **One of Us:** I used a custom Python script to automate the scanning of suspicious files to extract a malicious hash.
+- **One of Us (Artifact Parsing):** Developed a custom Python script to parse directory paths and automate bulk malware artifact scanning using the ClamAV API.
 
-- **Pigs Rules:** I developed a custom Snort IDS rule to detect and alert on malicious network activity.
+- **Pigs Rules (IDS Signature Testing):** Formulated a custom Snort IDS signature to detect and alert on unauthorized network traffic patterns.
 
-- **Imperial Memory:** I analyzed a memory dump and a 7-Zip archive to uncover a hidden secret.
+- **Imperial Memory (Memory Diagnostics):**  Analyzed system memory dumps and extracted encrypted archives during a forensics investigation exercise.
 
-- **Mail n' Trail:** I analyzed Splunk logs to investigate suspicious honeypot activity and uncover the source of malicious downloads.
+- **Mail n' Trail (Honeypot Telemetry):** Correlated Splunk server logs with honeypot activity to isolate malicious source IPs and decode Base64 payloads via CyberChef.
 
-**Hands-On Labs**
+**Hands-On Technical Labs**
 
-- **Splunk Dashboard and Alert Creation:** This project involved customizing Splunk dashboards for HTTP 404 error visualization and configuring real-time alerts.
+- **Telemetry Alerts:** Built custom Splunk dashboards to monitor web server telemetry, configuring real-time alerts for HTTP 404 error spikes and anomalous traffic patterns.
+- **SIEM Laboratory:** Implemented a centralized Wazuh lab environment in VirtualBox, configuring File Integrity Monitoring (FIM) and Active Response rules for automated threat mitigation.
 
-- **Wazuh Deployment in VirtualBox - FIM, Custom Rules, and Active Response:** This project set up a Wazuh SIEM in VirtualBox, covering FIM, custom threat detection, and automated active response.
+- **Agent Deployment:** Configured a Wazuh monitoring agent on a Windows 10 virtual machine, establishing custom log parsing rules and local retention policies.
 
-- **Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management:** This project set up a Wazuh agent on a Windows 10 VM, covering FIM, custom rules, and active responses, along with log retention policies.
-
-- **Network Attack Investigation in Wireshark:** This project involved analyzing network traffic captured in `.pcap` files using Wireshark to investigate simulated network attacks.
+- **Packet Inspection:**  Filtered packet captures in Wireshark to investigate TCP three-way handshakes and isolate unauthorized scan attempts targeting SMB (port 445) and DNS (port 53).
 
 
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
 
-This repository details my hands-on experience in network administration, including Cisco switch/router configuration, VLANs for segmentation, and firewall management with pfSense and Suricata. Through practical projects, this collection showcases my ability to effectively set up, secure, troubleshoot, and optimize network infrastructure to ensure robust connectivity. 
+Focuses on network architecture, switch and router provisioning, traffic segmentation, and perimeter defense controls. 
 
-- **Essential Switch Configuration:** Configured basic network connectivity and security settings on a Cisco switch in Packet Tracer. 
-
-- **Switch Port Security Configuration:** Implemented and tested port security policies on a Cisco switch to prevent unauthorized access.
+- **Switch Provisioning:** Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
  
-- **Initial Router Configuration:** Performed fundamental setup and IP addressing for a Cisco router in a small Packet Tracer network.
+- **Port Security:** Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
+ 
+- **Router Configuration:** Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
 
-- **Configuring Static Routes:** Manually configured IPv4 static routes on Cisco routers to establish inter-LAN and external network connectivity.
+- **Routing Protocols:** Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
 
-- **Configuring VLANs and Trunks:** Segmented networks using VLANs and trunking on Cisco switches for enhanced performance and security. 
+- **VLAN Segmentation:** Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
 
-- **Implementing Access Control Lists:** Applied standard and extended ACLs on Cisco routers to filter network traffic and control access.
+- **Access Control Lists:** Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
 
-- **Configuring Static, Dynamic, and Overload NAT:** Configured various NAT types on Cisco routers for IP address management and external communication.
+- **NAT Implementation:** Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
 
-- **PFSense Firewall Rule Configuration:** Managed firewall rules in pfSense to control network traffic, specifically ICMP, in a simulated environment.
+- **Firewall Policies:** Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
 
-- **Suricata Installation and Rule Configuration on PFSense:** Integrated and configured Suricata IDS/IPS on pfSense for advanced network threat monitoring and protection.
+- **Firewall Rulesets:** Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
 
 [**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) 
 
-This repository showcases my hands-on skills in managing and securing server environments. It features practical labs demonstrating my proficiency with Windows Server, Group Policy Objects (GPO), DNS/DHCP configuration. 
+Focuses on directory services, centralized domain policy enforcement, and core network infrastructure services.
 
-- **Windows Server Configuration:** This project focuses on the initial setup of a Windows Server domain and integrating a Windows client into it. 
+- **Domain Controller Setup:** Configured a Windows Server Active Directory domain environment and joined Windows client workstations to the domain.
 
-- **Server Manager Group Policy Object Configuration:** This project highlights the essential use of Group Policy Objects (GPOs) to manage and secure a Windows environment by disabling key features and customizing the desktop.
+- **Group Policy Enforcement:** Configured Group Policy Objects (GPOs) to enforce security baselines, restrict administrative tools, and standardize user environment settings.
 
-- **Configuring DNS and DHCP in Windows Server:** This project demonstrates the configuration of critical network services, including creating DNS records and setting up a DHCP server with a new IPv4 scope.
+- **DNS & DHCP Services:** Deployed core infrastructure roles on Windows Server, creating static DNS resource records and configuring dynamic DHCP scope options.
 
 [**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) 
 
-A separate repository demonstrating my proficiency with modern cloud infrastructure, including documentation of EC2 instance deployments.
+Focuses on cloud infrastructure provisioning, security group configuration, and remote access management.
 
-- **EC2 Windows Server Instance Creation:** This project outlines the creation and management of a Windows Server 2016 Amazon EC2 instance on AWS, focusing on secure access with a key pair and preparing for remote management via RDP.
-
+- **AWS Instance Deployment:** Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
 ---
 
 ### Certifications
