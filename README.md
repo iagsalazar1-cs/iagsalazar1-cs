@@ -6,20 +6,17 @@ Cybersecurity candidate and Bachelor of Science student at Western Governors Uni
 
 ---
 
-### Skills
-- **Operating Systems & System Administration:** Microsoft Windows Server/Client 2019 Datacenter, Linux (Kali/Ubuntu), Cisco IOS, AWS EC2, Active Directory, Virtualization (Oracle VirtualBox), IT System Maintenance, Server Management, Operating System Administration, Directory Services, User Account Administration, System Installation & Deployment, Hardware/Software Troubleshooting.
+### Technical Competencies
 
-- **Networking:** Troubleshooting, Configuration, Security Practices, Cisco Packet Tracer, PFSense Firewall, Network Diagnostics, Network Infrastructure Testing, Network Communication Security.
+- **Security Operations & Threat Monitoring:** Wazuh SIEM, Splunk Enterprise, Suricata IDS/IPS, Snort, Wireshark, Nmap, tcpdump, ClamAV, Packet Inspection (`.pcap`), Log Correlation, Alert Validation, Threat Isolation.
 
-- **Security & Monitoring Tools:** Wireshark, Snort/Suricata (IDS/IPS), Splunk Enterprise/SOAR and Wazuh (SIEM), ClamAV, Metasploit, Nmap, VPNBook, tcpdump.
+- **System Administration & Directory Services:** Windows Server (2016/2019), Active Directory, Group Policy Objects (GPO), DNS & DHCP Administration, Linux (Ubuntu, Kali), Virtualization (Oracle VirtualBox), AWS EC2.
 
-- **Security Operations & Analysis:** Performing Network Traffic Packet Analysis, Log Review & Analysis, Continuous System Monitoring, Alert Validation, Anomaly Detection, Event Correlation, Threat Detection, Malware Protection, Security Control Assessment, Application Security, Software Vulnerability Research, Patch Management, Automated Security Controls, Scanning for Vulnerabilities, Incident Tracking & Resolution, System Activity Analysis, Trend Analysis, Software Configuration Analysis.
+- **Network Infrastructure & Perimeter Defense:** pfSense Firewall, Cisco IOS, VLAN Segmentation (802.1Q), Access Control Lists (ACLs), Static Routing, Port Security, NAT/PAT, TCP/IP Suite.
 
-- **Languages/Scripting:** Python, PowerShell, Command Line (Windows CMD, Linux).
+- **Scripting & Automation:** Python (Directory Parsing & Security Automation), PowerShell, Bash, Command Line Interfaces (CLI), CyberChef.
 
-- **Documentation & Process Management:** Technical Documentation, Creation of Standard Operating Procedures (SOPs), Knowledge Base Management, Process Visualization.
-
-- **Professional:** Bilingual (English/Spanish), Customer Service & Communication, Problem-Solving, Team Collaboration, Adaptability to New Software and Technology, Professionalism in Handling Sensitive Information.
+- **Service Frameworks & Operations:** ITIL 4 Foundation, Incident Queue Management, Standard Operating Procedures (SOPs), Technical Reporting, Bilingual (English/Spanish).
 
 ---
 
@@ -40,44 +37,52 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 **Hands-On Technical Labs**
 
-- **Telemetry Alerts:** Built custom Splunk dashboards to monitor web server telemetry, configuring real-time alerts for HTTP 404 error spikes and anomalous traffic patterns.
-- **SIEM Laboratory:** Implemented a centralized Wazuh lab environment in VirtualBox, configuring File Integrity Monitoring (FIM) and Active Response rules for automated threat mitigation.
+- [**Splunk Dashboard and Alert Creation (Telemetry Alerts):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/05-Splunk-Dashboard-Alert-Creation) Built custom Splunk dashboards to monitor web server telemetry, configuring real-time alerts for HTTP 404 error spikes and anomalous traffic patterns.
 
-- **Agent Deployment:** Configured a Wazuh monitoring agent on a Windows 10 virtual machine, establishing custom log parsing rules and local retention policies.
+- [**Wazuh Deployment in VirtualBox - FIM, Custom Rules, and Active Response (SIEM Laboratory):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/06-Wazuh-Deployment-FIM-Custom-Rules-Active-Response) Implemented a centralized Wazuh lab environment in VirtualBox, configuring File Integrity Monitoring (FIM) and Active Response rules for automated threat mitigation.
 
-- **Packet Inspection:**  Filtered packet captures in Wireshark to investigate TCP three-way handshakes and isolate unauthorized scan attempts targeting SMB (port 445) and DNS (port 53).
+- [**Wazuh Deployment in VirtualBox - Windows 10 Agent & Log Management (Agent Deployment):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/07-Wazuh-Deployment-Windows-Agent-Log-Management) Configured a Wazuh monitoring agent on a Windows 10 virtual machine, establishing custom log parsing rules and local retention policies.
+
+- [**Network Attack Investigation in Wireshark (Packet Inspection):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/08-Network-Attack-Investigation-in-Wireshark) Filtered packet captures in Wireshark to investigate TCP three-way handshakes and isolate unauthorized scan attempts targeting SMB (port 445) and DNS (port 53).
+
+---
 
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
 
-- **Switch Provisioning:** Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
- 
-- **Port Security:** Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
- 
-- **Router Configuration:** Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
+- [**Essential Switch Configuration (Switch Provisioning):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/01-Essential-Switch-Configuration) Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
 
-- **Routing Protocols:** Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
+- [**Switch Port Security Configuration (Port Security):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/02-Switch-Port-Security-Configuration) Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
 
-- **VLAN Segmentation:** Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
+- [**Initial Router Configuration (Router Configuration):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/03-Initial-Router-Configuration) Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
 
-- **Access Control Lists:** Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
+- [**Configuring Static Routes (Routing Protocols):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/04-Configuring-Static-Routes) Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
 
-- **NAT Implementation:** Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
+- [**Configuring VLANs and Trunks (VLAN Segmentation):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/05-Configuring-VLANs-and-Trunks) Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
 
-- **Firewall Policies:** Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
+- [**Implementing Access Control Lists (Access Control Lists):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/06-Implementing-Access-Control-Lists) Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
 
-- **Firewall Rulesets:** Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
+- [**Configuring Static, Dynamic, and Overload NAT (NAT Implementation):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/07-Configuring-Static-Dynamic-Overload-NAT) Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
+
+- [**PFSense Firewall Rule Configuration (Firewall Policies):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/08-PFSense-Firewall-Rule-Configuration) Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
+
+- [**Suricata Installation and Rule Configuration on PFSense (Firewall Rulesets):**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/09-Suricata-Installation-and-Rule-Configuration-on-PFSense) Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
+
+---
 
 [**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) 
 
-- **Domain Controller Setup:** Configured a Windows Server Active Directory domain environment and joined Windows client workstations to the domain.
+- [**Windows Server Configuration (Domain Controller Setup):**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/01-Windows-Server-Configuration) Configured a Windows Server Active Directory domain environment and joined Windows client workstations to the domain.
 
-- **Group Policy Enforcement:** Configured Group Policy Objects (GPOs) to enforce security baselines, restrict administrative tools, and standardize user environment settings.
+- [**Server Manager Group Policy Object Configuration (Group Policy Enforcement):**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/02-Server-Manager-Group-Policy-Object-Configuration) Configured Group Policy Objects (GPOs) to enforce security baselines, restrict administrative tools, and standardize user environment settings.
 
-- **DNS & DHCP Services:** Deployed core infrastructure roles on Windows Server, creating static DNS resource records and configuring dynamic DHCP scope options.
+- [**Configuring DNS and DHCP in Windows Server (DNS & DHCP Services):**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main/03-Configuring-DNS-and-DHCP-in-Windows-Server) Deployed core infrastructure roles on Windows Server, creating static DNS resource records and configuring dynamic DHCP scope options.
+
+---
 
 [**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) 
 
-- **AWS Instance Deployment:** Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
+- [**EC2 Windows Server Instance Creation (AWS Instance Deployment):**](https://github.com/iagsalazar1-cs/Cloud-Solutions/tree/main/01-EC2-Windows-Server-Instance-Creation) Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
+
 ---
 
 ### Certifications
