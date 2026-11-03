@@ -28,8 +28,6 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 [**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response)
 
-Focuses on threat monitoring, telemetry analysis, and incident investigation using enterprise-grade security tools and capture-the-flag (CTF) scenarios.
-
 **Case Studies & Threat Analysis**
 
 - **One of Us (Artifact Parsing):** Developed a custom Python script to parse directory paths and automate bulk malware artifact scanning using the ClamAV API.
@@ -49,10 +47,7 @@ Focuses on threat monitoring, telemetry analysis, and incident investigation usi
 
 - **Packet Inspection:**  Filtered packet captures in Wireshark to investigate TCP three-way handshakes and isolate unauthorized scan attempts targeting SMB (port 445) and DNS (port 53).
 
-
 [**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
-
-Focuses on network architecture, switch and router provisioning, traffic segmentation, and perimeter defense controls. 
 
 - **Switch Provisioning:** Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
  
@@ -74,8 +69,6 @@ Focuses on network architecture, switch and router provisioning, traffic segment
 
 [**System Administration Projects**](https://github.com/iagsalazar1-cs/System-Administration-Projects/tree/main) 
 
-Focuses on directory services, centralized domain policy enforcement, and core network infrastructure services.
-
 - **Domain Controller Setup:** Configured a Windows Server Active Directory domain environment and joined Windows client workstations to the domain.
 
 - **Group Policy Enforcement:** Configured Group Policy Objects (GPOs) to enforce security baselines, restrict administrative tools, and standardize user environment settings.
@@ -83,8 +76,6 @@ Focuses on directory services, centralized domain policy enforcement, and core n
 - **DNS & DHCP Services:** Deployed core infrastructure roles on Windows Server, creating static DNS resource records and configuring dynamic DHCP scope options.
 
 [**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) 
-
-Focuses on cloud infrastructure provisioning, security group configuration, and remote access management.
 
 - **AWS Instance Deployment:** Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
 ---
