@@ -25,7 +25,7 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 [**Cybersecurity Incident Response**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response)
 
-**Case Studies & Threat Analysis**
+**Case Studies (CTF Challenges)**
 
 - [**One of Us (Artifact Parsing:**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/01-One-of-Us) Developed a custom Python script to parse directory paths and automate bulk malware artifact scanning using the ClamAV API.
 
