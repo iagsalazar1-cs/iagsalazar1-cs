@@ -27,13 +27,13 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 **Case Studies & Threat Analysis**
 
-- **One of Us (Artifact Parsing):** Developed a custom Python script to parse directory paths and automate bulk malware artifact scanning using the ClamAV API.
+- [**One of Us (Artifact Parsing:**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/01-One-of-Us) Developed a custom Python script to parse directory paths and automate bulk malware artifact scanning using the ClamAV API.
 
-- **Pigs Rules (IDS Signature Testing):** Formulated a custom Snort IDS signature to detect and alert on unauthorized network traffic patterns.
+- [**Pigs Rules (IDS Signature Testing):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/02-Pigs-Rules) Formulated a custom Snort IDS signature to detect and alert on unauthorized network traffic patterns.
 
-- **Imperial Memory (Memory Diagnostics):**  Analyzed system memory dumps and extracted encrypted archives during a forensics investigation exercise.
+- [**Imperial Memory (Memory Diagnostics):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/03-Imperial-Memory) Analyzed system memory dumps and extracted encrypted archives during a forensics investigation exercise.
 
-- **Mail n' Trail (Honeypot Telemetry):** Correlated Splunk server logs with honeypot activity to isolate malicious source IPs and decode Base64 payloads via CyberChef.
+- [**Mail n' Trail (Honeypot Telemetry):**](https://github.com/iagsalazar1-cs/Cybersecurity-Incident-Response/tree/main/04-Mail-n-Trail) Correlated Splunk server logs with honeypot activity to isolate malicious source IPs and decode Base64 payloads via CyberChef.
 
 **Hands-On Technical Labs**
 
