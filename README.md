@@ -79,7 +79,7 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 ---
 
-[**Cloud Solutions**](https://github.com/iagsalazar1-cs/Cloud-Solutions) 
+[**Cloud Labs**](https://github.com/iagsalazar1-cs/Cloud-Labs) 
 
 - [**EC2 Windows Server Instance Creation:**](https://github.com/iagsalazar1-cs/Cloud-Solutions/tree/main/01-EC2-Windows-Server-Instance-Creation) Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
 
