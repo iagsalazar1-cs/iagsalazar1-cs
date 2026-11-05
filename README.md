@@ -51,21 +51,21 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 - [**Essential Switch Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/01-Essential-Switch-Configuration) Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
 
-- [**Switch Port Security Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/02-Switch-Port-Security-Configuration) Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
+- [**Switch Port Security Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/02-Switch-Port-Security-Configuration) Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
 
-- [**Initial Router Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/03-Initial-Router-Configuration) Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
+- [**Initial Router Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/03-Initial-Router-Configuration) Configured initial interface addressing, hostname parameters, and administrative banners on Cisco edge routers.
 
-- [**Configuring Static Routes:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/04-Configuring-Static-Routes) Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
+- [**Configuring Static Routes:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/04-Configuring-Static-Routes) Configured static IPv4 routes across multi-router topology environments to enable inter-network reachability.
 
-- [**Configuring VLANs and Trunks:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/05-Configuring-VLANs-and-Trunks) Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
+- [**Configuring VLANs and Trunks:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/05-Configuring-VLANs-and-Trunks) Implemented VLANs and 802.1Q trunking links to isolate broadcast domains and enhance traffic management.
 
-- [**Implementing Access Control Lists:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/06-Implementing-Access-Control-Lists) Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
+- [**Implementing Access Control Lists:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/06-Implementing-Access-Control-Lists) Applied standard and extended ACLs on perimeter routers to filter network traffic by IP address and protocol type.
 
-- [**Configuring Static, Dynamic, and Overload NAT:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/07-Configuring-Static-Dynamic-Overload-NAT) Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
+- [**Configuring Static, Dynamic, and Overload NAT:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/07-Configuring-Static-Dynamic-Overload-NAT) Configured Static, Dynamic, and PAT/Overload NAT translation rules to manage IP pool allocation and outbound internet connectivity.
 
-- [**PFSense Firewall Rule Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/08-PFSense-Firewall-Rule-Configuration) Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
+- [**PFSense Firewall Rule Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/08-PFSense-Firewall-Rule-Configuration) Configured network address translation and filtering rules on a pfSense virtual firewall to regulate ICMP and web traffic.
 
-- [**Suricata Installation and Rule Configuration on PFSense:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/09-Suricata-Installation-and-Rule-Configuration-on-PFSense) Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
+- [**Suricata Installation and Rule Configuration on PFSense:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/09-Suricata-Installation-and-Rule-Configuration-on-PFSense) Integrated Suricata IDS/IPS on a pfSense virtual firewall, loading ETOpen threat signatures and validating detection rules using targeted Nmap vulnerability scans.
 
 ---
 
@@ -79,9 +79,9 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 ---
 
-[**Cloud Labs**](https://github.com/iagsalazar1-cs/Cloud-Labs) 
+[**Cloud Deployments**](https://github.com/iagsalazar1-cs/Cloud-Deployments) 
 
-- [**EC2 Windows Server Instance Creation:**](https://github.com/iagsalazar1-cs/Cloud-Solutions/tree/main/01-EC2-Windows-Server-Instance-Creation) Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
+- [**EC2 Windows Server Instance Creation:**](https://github.com/iagsalazar1-cs/Cloud-Deployments/tree/main/01-EC2-Windows-Server-Instance-Creation) Provisioned and configured a Windows Server 2016 EC2 instance on AWS, configuring security group inbound rules and key pair authentication for secure RDP access.
 
 ---
 
