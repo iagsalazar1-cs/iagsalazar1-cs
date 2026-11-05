@@ -47,9 +47,9 @@ This portfolio documents hands-on laboratory exercises, system configurations, a
 
 ---
 
-[**Network Administration & Labs**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs)
+[**Network Administration Labs**](https://github.com/iagsalazar1-cs/Network-Administration-Labs)
 
-- [**Essential Switch Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/01-Essential-Switch-Configuration) Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
+- [**Essential Switch Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-Labs/tree/main/01-Essential-Switch-Configuration) Established baseline security settings, management interfaces, and administrative access controls on Cisco switches.
 
 - [**Switch Port Security Configuration:**](https://github.com/iagsalazar1-cs/Network-Administration-and-Labs/tree/main/02-Switch-Port-Security-Configuration) Implemented Layer 2 port security limits and violation actions to restrict unauthorized device connections.
 
